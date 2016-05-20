@@ -1,2 +1,2 @@
 # graph
-api graph representasi adjacency matrix
+api graphs representasi adjacency matrix
